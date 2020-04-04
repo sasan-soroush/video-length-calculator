@@ -26,6 +26,10 @@ When you choosed your videos the app calculates the overall duration.
 
 <img src="https://user-images.githubusercontent.com/31206210/78424784-0f70cc80-7685-11ea-82d8-cd7066fa38dd.png" alt="VLCalculator" width="100%">
 
+## Download
+
+You can [download](https://github.com/Sasan-Angel/video-length-calculator/releases/tag/1.0.0) the latest installable version for macOS.
+
 ## License
 
 MIT
